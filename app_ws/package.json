@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@bazel/labs": "^2.3.0",
+    "@bazel/typescript": "^2.3.0",
+    "@types/node": "11.11.1",
+    "requirejs": "2.3.6",
+    "typescript": "^3.3.1"
+  }
+}
